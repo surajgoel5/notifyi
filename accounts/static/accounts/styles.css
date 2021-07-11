@@ -1,0 +1,54 @@
+.form-center {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    
+	 background: #97D1FF;
+   
+}
+
+.form-body {
+    display: inline-block;
+    padding: 5em;
+}
+
+
+.form-title {
+    background: #0D4C7F;
+    color: white;
+    padding: 0.1em;
+    font-size: 1.5em;
+}
+
+
+.input-box {
+  position: relative;
+}
+
+.input-box input {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 1em;
+  color: #fff;
+  margin-bottom: 30px;
+  border: none;
+  border-bottom: 1px solid #fff;
+  outline: none;
+  background: transparent;
+}
+.input-box label {
+  position: absolute;
+  top:0;
+  left: 0;
+  padding: 10px 0;
+  font-size: 16px;
+  color: #fff;
+  pointer-events: none;
+  transition: .5s;
+}
+.input-box input:focus ~ label,
+.input-box input:valid ~ label {
+  top: -2.5em;
+  left: 0;
+  font-size: 0.75em;
+}

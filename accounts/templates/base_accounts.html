@@ -1,0 +1,29 @@
+
+{% extends 'base.html' %}
+{% load static %}
+
+{% block  head %}
+
+ <link rel="stylesheet" type="text/css" href="{% static 'accounts/styles.css' %}">
+
+{% endblock %}
+
+{% block  content %}
+
+
+
+
+<div class="form-center shadow">
+
+	<div class='form-title'>
+	 {% block  form_title %}{% endblock %}
+	</div>
+	
+	<div class='form-body'>
+	 {% block  form %}{% endblock %}
+	 </div>
+
+</div>
+
+
+{% endblock %}
