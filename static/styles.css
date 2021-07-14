@@ -1,7 +1,25 @@
 body {
-    background: #E4F3FF;
+    background: #FFFCFA;
+	font-family: 'Comfortaa', cursive;
 }
 
 .shadow{
 	 box-shadow: 0px 0px 8px 0px #00000080;
+}
+
+.sideblock{
+    top: 0;
+    position: fixed;
+    z-index: -1;
+    width: 10%;
+    background: #EBC2AC;
+    padding: 100vh 2vw;
+	 box-shadow: 0px 0px 8px 0px #00000080;
+}
+
+.sideblock_left{
+	left:0;
+}
+.sideblock_right{
+	right:0;
 }

@@ -7,13 +7,21 @@
 <head>
   <meta charset="utf-8">
   <title>{% block title %}Notifyi{% endblock %}</title>
-
+  
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="{% static 'styles.css' %}">
      {% block head %}
     {% endblock %}
   
 </head>
 <body>
+<div class='sideblock sideblock_left'></div>
+
+<div class='sideblock sideblock_right'></div>
+
+
   <main>
     {% block content %}
     {% endblock %}

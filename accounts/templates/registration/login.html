@@ -5,12 +5,16 @@
 <p>Login</p>
 {% endblock %}
 
-{% block form %}
 
-  {% if form.errors %}
+{% block form_errors %}
+{% if form.errors %}
     <p>Your username and password didn't match. Please try again.</p>
   {% endif %}
+{% endblock %}
 
+
+
+{% block page_errors %}
   {% if next %}
     {% if user.is_authenticated %}
       <p>Your account doesn't have access to this page. To proceed,
@@ -19,6 +23,15 @@
       <p>Please login to see this page.</p>
     {% endif %}
   {% endif %}
+{% endblock %}
+
+
+
+
+{% block form %}
+
+
+
 
  <form method="post" action="{% url 'login' %}">
      {% csrf_token %}
@@ -31,8 +44,11 @@
       <label>{{form.password.label}}</label>
     </div>
      
-	<input type="submit" value="login" />
+	<input type="submit" class='button' value="login" />
     <input type="hidden" name="next" value="{{ next }}" />
+	
+	
+	
   </form>
 
 

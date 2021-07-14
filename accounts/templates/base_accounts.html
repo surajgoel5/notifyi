@@ -11,17 +11,22 @@
 {% block  content %}
 
 
-
-
-<div class="form-center shadow">
-
-	<div class='form-title'>
+<div class='form-title'>
 	 {% block  form_title %}{% endblock %}
 	</div>
 	
+
+<div class="form-center shadow">
+	<div class='page-errors'>
+		{% block  page_errors %}{% endblock %}
+	</div>
 	<div class='form-body'>
 	 {% block  form %}{% endblock %}
+	 
+	  {% block  form_errors %}{% endblock %}
+	 
 	 </div>
+	 
 
 </div>
 

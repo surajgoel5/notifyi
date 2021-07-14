@@ -1,0 +1,13 @@
+
+{% extends 'base_accounts.html' %}
+
+{% block form_title %}
+ <p>Logged out!</p>
+{% endblock %}
+
+{% block form %}
+
+<a href="{% url 'login'%}" class='text-link'>Click here to login again.</a>
+
+  
+{% endblock %}	 

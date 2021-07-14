@@ -1,3 +1,4 @@
 notifyivenv/
+desktop client/
 *.pyc
 *.sqlite3

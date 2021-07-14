@@ -1,23 +1,53 @@
+.page-errors {
+   padding-top:0.5em;
+   
+}
+
 .form-center {
     text-align: center;
     margin: auto;
-    width: 50%;
-    
-	 background: #97D1FF;
+    width: 30%;
+	 background: #689997;
    
 }
 
 .form-body {
     display: inline-block;
-    padding: 5em;
+    padding-top: 4em;
+	padding-left: 4em;
+	padding-right: 4em;
+	padding-bottom: 2em;
 }
 
 
 .form-title {
-    background: #0D4C7F;
-    color: white;
-    padding: 0.1em;
+   /*background: #689997;
+    */
+	 padding: 4em;
+	
+	text-align: center;
+	color: black;
+    padding: 0.5em;
     font-size: 1.5em;
+}
+
+
+
+.help-text{
+	
+	margin-top: -4em;
+    margin-bottom: 4em;
+    font-size: 0.8em;
+    text-align: left;
+}
+
+.help-text ul{
+	
+	margin-left: -2em;
+}
+.help-text li{
+	
+	margin-top: 0.5em;
 }
 
 
@@ -30,25 +60,47 @@
   padding: 10px 0;
   font-size: 1em;
   color: #fff;
-  margin-bottom: 30px;
+  margin-bottom: 3em;
   border: none;
   border-bottom: 1px solid #fff;
   outline: none;
-  background: transparent;
+  background: #ffffff70;
 }
 .input-box label {
   position: absolute;
-  top:0;
+  top:-2em;
   left: 0;
-  padding: 10px 0;
-  font-size: 16px;
+  padding: 0.5em 0;
+  font-size: 1.1em;
+  
   color: #fff;
   pointer-events: none;
   transition: .5s;
 }
+
+.button {
+	text-transform: uppercase;
+  background-color:#CAE6E4;
+  border: none;
+  color: #4b4b4b;
+letter-spacing: 0.2em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1em;
+    padding: 0.8em 2em;
+  cursor: pointer;
+}
+
+
+.text-link{
+	color:white;
+}
+/*
 .input-box input:focus ~ label,
 .input-box input:valid ~ label {
   top: -2.5em;
   left: 0;
   font-size: 0.75em;
 }
+*/
