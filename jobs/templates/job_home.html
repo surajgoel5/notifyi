@@ -1,0 +1,40 @@
+
+{% extends 'base.html' %}
+{% load static %}
+
+{% block  head %}
+
+ <link rel="stylesheet" type="text/css" href="{% static '/jobs/styles.css' %}">
+{% endblock %}
+
+{% block  content %}
+
+<div class= 'main-block shadow'>
+
+
+<div class='welcome-user'>
+<p> Welcome {{user.username}}!</p>
+
+<a href='{% url 'logout' %}'> Logout</a>
+<br>
+<a href='{% url 'disp_user_key' %}'> Reveal Key</a>
+<div>
+
+	<div class='section-header'>
+			<p>Jobs</p>
+	</div>
+		<div class='line'></div>
+	{% for job in jobs %}
+		<div class='job-block'>
+		<div class='job-title'><p>{{job.title}}</p></div>
+	<div class='job-time-origin'><p>{{job.ping_time}} | {{job.origin_device}}</p></div>
+	<div class='job-message'><p>{{job.message}}</p></div>
+
+	</div>
+	{% endfor %}
+
+	
+
+</div>
+
+{% endblock %}

@@ -13,13 +13,18 @@ from django.http import JsonResponse
 def index(request):
     if request.user.is_authenticated:
         jobs=Job.objects.filter(account__user__id=request.user.id)
-        print(jobs)
-        return (HttpResponse(jobs))
+        
+        return render(request, 'job_home.html', {'jobs': jobs,'user':request.user})
+        
     else:
         return redirect('%s?next=%s' % (settings.LOGIN_URL, request.path))
 
-def add_job(acc,title,message,origin_device):
-    job=Job(account=acc,title=title, message=message,origin_device=origin_device )
+def disp_user_key(request):
+    if request.user.is_authenticated:
+        return HttpResponse(request.user.account.key)
+        
+    else:
+        return redirect('%s?next=%s' % (settings.LOGIN_URL, request.path))
 
 
 @csrf_exempt 
