@@ -2,6 +2,7 @@
 {% extends 'base.html' %}
 {% load static %}
 
+{% load webpush_notifications %}
 {% block  head %}
 
  <link rel="stylesheet" type="text/css" href="{% static '/jobs/styles.css' %}">
@@ -18,6 +19,8 @@
 <a href='{% url 'logout' %}'> Logout</a>
 <br>
 <a href='{% url 'disp_user_key' %}'> Reveal Key</a>
+  {% webpush_button %}
+
 <div>
 
 	<div class='section-header'>

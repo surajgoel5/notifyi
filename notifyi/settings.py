@@ -30,6 +30,18 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+try:
+    WEBPUSH_SETTINGS = {
+    "VAPID_PUBLIC_KEY": VAPID_PUBLIC_KEY,
+    "VAPID_PRIVATE_KEY":VAPID_PRIVATE_KEY 
+}
+except:
+    WEBPUSH_SETTINGS = {
+        "VAPID_PUBLIC_KEY": os.environ['VAPID_PUBLIC_KEY'],
+        "VAPID_PRIVATE_KEY":os.environ['VAPID_PRIVATE_KEY'] 
+        
+    }
+WEBPUSH_SETTINGS["VAPID_ADMIN_EMAIL"]= "admin@example.com"
 # Application definition
 
 INSTALLED_APPS = [
@@ -40,7 +52,8 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django.contrib.staticfiles'
+    'django.contrib.staticfiles',
+    'webpush',
 ]
 
 MIDDLEWARE = [

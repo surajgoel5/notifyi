@@ -2,6 +2,8 @@ from django.db import models
 from accounts.models import Account
 from django.db.models.signals import post_save
 from django.dispatch import receiver
+from webpush import send_group_notification
+
 
 
 class Job(models.Model):
@@ -13,3 +15,9 @@ class Job(models.Model):
 
     def __str__(self):
         return f'Job#{self.id} for {self.account.user.username}: {self.title}' 
+
+    def send_notif(self):
+        payload = {"head": self.title, "body": self.message}
+        send_group_notification(group_name=self.account.user.username, payload=payload, ttl=1000)
+
+

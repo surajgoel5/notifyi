@@ -7,14 +7,12 @@ from accounts.models import Account
 from django.views.decorators.csrf import csrf_exempt
 from django.http import JsonResponse
 
-
-
 # Create your views here.
 def index(request):
     if request.user.is_authenticated:
         jobs=Job.objects.filter(account__user__id=request.user.id)
-        
-        return render(request, 'job_home.html', {'jobs': jobs,'user':request.user})
+        webpush = {"group": request.user.username } # The group_name should be the name you would define.
+        return render(request, 'job_home.html', {'jobs': jobs,'user':request.user,"webpush":webpush})
         
     else:
         return redirect('%s?next=%s' % (settings.LOGIN_URL, request.path))
@@ -54,6 +52,7 @@ def job_request(request):
             job=Job(account=acc[0],title=title, message=message,origin_device=origin_device)
 
             job.save()
+            job.send_notif()
         
         return HttpResponse(status=200)# OK
     else :
