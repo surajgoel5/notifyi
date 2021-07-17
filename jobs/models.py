@@ -3,6 +3,8 @@ from accounts.models import Account
 from django.db.models.signals import post_save
 from django.dispatch import receiver
 from webpush import send_group_notification
+from django.contrib.staticfiles import finders
+from django.templatetags.static import static
 
 
 
@@ -17,7 +19,8 @@ class Job(models.Model):
         return f'Job#{self.id} for {self.account.user.username}: {self.title}' 
 
     def send_notif(self):
-        payload = {"head": self.title, "body": self.message}
+        icon = static('/favicon.png')
+        payload = {"head": self.title, "body": self.message,"icon":icon}
         send_group_notification(group_name=self.account.user.username, payload=payload, ttl=1000)
 
 
