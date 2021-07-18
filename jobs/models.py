@@ -20,8 +20,8 @@ class Job(models.Model):
 
     def send_notif(self):
         icon = static('/favicon.png')
-        badge = static('/badge.png')
-        
+        badge = 'http://notifyi.herokuapp.com/static/badge.png'#static('/badge.png')
+       # print(badge)
         payload = {"head": self.title, "body": self.message,"icon":icon, "badge": badge}
         send_group_notification(group_name=self.account.user.username, payload=payload, ttl=1000)
 
