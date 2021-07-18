@@ -20,7 +20,8 @@ class Job(models.Model):
 
     def send_notif(self):
         icon = static('/favicon.png')
-        payload = {"head": self.title, "body": self.message,"icon":icon}
+
+        payload = {"head": self.title, "body": self.message,"icon":icon,  "badge": icon}
         send_group_notification(group_name=self.account.user.username, payload=payload, ttl=1000)
 
 
