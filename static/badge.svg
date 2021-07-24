@@ -16,8 +16,8 @@
    sodipodi:docname="badge.svg"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    inkscape:export-filename="C:\Users\Suraj Goel\Documents\GitHub\notifyi\static\badge.png"
-   inkscape:export-xdpi="20.756788"
-   inkscape:export-ydpi="20.756788">
+   inkscape:export-xdpi="110.70287"
+   inkscape:export-ydpi="110.70287">
   <metadata
      id="metadata11">
     <rdf:RDF>
@@ -59,20 +59,25 @@
      inkscape:document-rotation="0" />
   <g
      id="g837"
-     transform="matrix(0.72886142,0,0,0.72886142,26.62612,31.412539)">
+     transform="matrix(0.72886142,0,0,0.72886142,26.62612,31.412539)"
+     style="display:inline">
     <path
        sodipodi:nodetypes="cssccccccccccccccsscc"
        inkscape:connector-curvature="0"
        id="path5740"
        d="m 87.013894,75.830982 0.02484,-6.87219 C 87.040851,68.360841 86.251953,60.978774 82.10959,58.251219 77.090422,54.946358 74.342925,49.896118 74.049727,43.726386 73.887128,40.286813 73.716679,36.846912 73.596112,33.405021 73.401249,27.811069 73.875795,22.112072 72.942973,16.647157 70.55926,2.6835398 62.126959,-6.2705079 48.588897,-10.362976 c -1.422794,-0.430107 -1.97143,-1.039189 -1.87081,-2.536581 0.09064,-1.337938 0.06579,-2.764167 -0.320643,-4.030573 -0.874893,-2.872108 -3.460834,-4.619552 -6.429386,-4.657988 l 0.0011,4.5e-4 c -2.968671,0.01653 -5.567781,1.743966 -6.464326,4.609371 -0.396053,1.263469 -0.431552,2.689491 -0.350965,4.028053 0.08943,1.498093 -0.463855,2.103037 -1.889868,2.522431 C 17.695418,-6.437577 9.1958226,2.4526346 6.7068998,16.397883 5.73293,21.855597 6.1645368,27.557985 5.9274045,33.150325 5.7809961,36.591223 5.5846827,40.029718 5.3960431,43.468006 5.0562987,49.635339 2.270771,54.664725 -2.7731796,57.931649 c -4.1628502,2.696194 -5.00751,10.072137 -5.0097648,10.670088 l -0.026048,7.22924 H 75.061158"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:10.1528;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:10.15282164;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="110.70287"
+       inkscape:export-ydpi="110.70287" />
     <path
-       style="fill:none;stroke:#f2f2f2;stroke-width:10.1528;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffffff;stroke-width:10.15282164;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 26.680225,87.688132 H 52.549703"
        id="path3418"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="110.70287"
+       inkscape:export-ydpi="110.70287" />
     <circle
-       style="opacity:0.997;fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.46775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="opacity:0.997;fill:#ffffff;fill-opacity:0.97352946;fill-rule:evenodd;stroke:none;stroke-width:5.46775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path3420"
        cx="66.607285"
        cy="-4.6486077"

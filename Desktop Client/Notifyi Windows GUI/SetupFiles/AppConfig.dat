@@ -1,0 +1,1 @@
+{"VERIFICATION_URL": "https://notifyi.herokuapp.com/verify_key/", "JOB_REQUEST_URL": "https://notifyi.herokuapp.com/job_request/", "LOCAL_DATA_DIR": "LOCALDATADIRPATH", "USERS_FILE": "userdata.dat"}

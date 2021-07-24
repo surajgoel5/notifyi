@@ -1,0 +1,1438 @@
+('C:\\Users\\Suraj Goel\\Documents\\GitHub\\notifyi\\desktop client\\Notifyi '
+ 'Windows GUI\\pyinstaller_builds\\build\\Notifyi\\PYZ-00.pyz',
+ [('ssl',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\struct.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\getopt.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\selectors.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\bisect.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\stat.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\tty.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\token.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\string.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\bz2.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('win32com',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\os.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\hmac.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\queue.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.utils',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs7',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs7.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._types',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\_types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._der',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\_der.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dsa',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hashes',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed448',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.poly1305',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\poly1305.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.rsa',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x25519',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x448',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.cmac',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\cmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hmac',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x509',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x509.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ec',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.aead',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.interfaces',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\interfaces.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.encode_asn1',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\encode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed25519',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.x509.ocsp',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\x509\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.scrypt',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\scrypt.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ocsp',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dh',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dh.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('OpenSSL.crypto',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\OpenSSL\\crypto.py',
+   'PYMODULE'),
+  ('OpenSSL',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\OpenSSL\\__init__.py',
+   'PYMODULE'),
+  ('OpenSSL.version',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\OpenSSL\\version.py',
+   'PYMODULE'),
+  ('OpenSSL._util',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\OpenSSL\\_util.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('OpenSSL.SSL',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\OpenSSL\\SSL.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langrussianmodel',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langrussianmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\suraj '
+   'goel\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE')])
